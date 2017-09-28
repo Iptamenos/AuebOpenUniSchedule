@@ -163,19 +163,19 @@ public class Main {
 		date_string = date_string.replace("//", "////");
 		
 		// write list of sorted lessons to file
-		String outputFile = "output_files/txt/Πρόγραμμα " + date_string + " " + schedule_department + ".txt";
+		String outputFile = "schedules/txt/Πρόγραμμα " + date_string + " " + schedule_department + ".txt";
 		createPathToFile(outputFile);
 		writeLessonListToTxtFile(selected_lessons, outputFile);
 		System.out.println("Writing to \".txt\" file done!");
 		
 		// write list of sorted lessons to excel file
-		String excelFile = "output_files/excel/Πρόγραμμα " + date_string + " " + schedule_department + ".xls";
+		String excelFile = "schedules/excel/Πρόγραμμα " + date_string + " " + schedule_department + ".xls";
 		createPathToFile(excelFile);
 		writeLessonListToExcelFile(selected_lessons, excelFile);
 		System.out.println("Writing to excel file done!");
 		
 		// write list of sorted lessons to xml file
-		String xmlFile = "output_files/xml/Πρόγραμμα " + date_string + " " + schedule_department + ".xml";
+		String xmlFile = "schedules/xml/Πρόγραμμα " + date_string + " " + schedule_department + ".xml";
 		createPathToFile(xmlFile);
 		writeLessonListToXmlFile(selected_lessons, xmlFile);
 		System.out.println("Writing to \".xml\" file done!");
