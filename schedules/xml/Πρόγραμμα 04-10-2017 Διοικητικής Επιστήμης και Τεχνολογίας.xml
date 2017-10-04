@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="schedules.xsl"?>
+<schedule>
+    <department name="Διοικητικής Επιστήμης και Τεχνολογίας">
+        <lesson title="ΕΙΣΑΓΩΓΗ ΣΤΗ ΔΙΟΙΚΗΣΗ ΕΠΙΧΕΙΡΗΣΕΩΝ">
+            <semester>1</semester>
+            <professor>Ι.ΣΠΑΝΟΣ</professor>
+            <comments>-</comments>
+            <time>15-17</time>
+            <room>Α31</room>
+            <day>Δευτέρα</day>
+        </lesson>
+        <lesson title="ΕΙΣΑΓΩΓΗ ΣΤΗ ΔΙΟΙΚΗΣΗ ΕΠΙΧΕΙΡΗΣΕΩΝ">
+            <semester>1</semester>
+            <professor>Ι.ΣΠΑΝΟΣ</professor>
+            <comments>-</comments>
+            <time>15-17</time>
+            <room>Α31</room>
+            <day>Τετάρτη</day>
+        </lesson>
+        <lesson title="ΕΙΣΑΓΩΓΗ ΣΤΗΝ ΠΛΗΡΟΦΟΡΙΚΗ ">
+            <semester>1</semester>
+            <professor>Γ. ΓΙΑΓΛΗΣ</professor>
+            <comments>ΦΡΟΝΤΙΣΤΗΡΙΟ</comments>
+            <time>17-19</time>
+            <room>Α31</room>
+            <day>Δευτέρα</day>
+        </lesson>
+        <lesson title="ΕΙΣΑΓΩΓΗ ΣΤΗΝ ΠΛΗΡΟΦΟΡΙΚΗ ">
+            <semester>1</semester>
+            <professor>Γ. ΓΙΑΓΛΗΣ</professor>
+            <comments>-</comments>
+            <time>11-13</time>
+            <room>Α21</room>
+            <day>Παρασκευή</day>
+        </lesson>
+        <lesson title="ΕΙΣΑΓΩΓΗ ΣΤΗΝ ΠΛΗΡΟΦΟΡΙΚΗ ">
+            <semester>1</semester>
+            <professor>Γ. ΓΙΑΓΛΗΣ</professor>
+            <comments>-</comments>
+            <time>13-15</time>
+            <room>Α21</room>
+            <day>Παρασκευή</day>
+        </lesson>
+        <lesson title="ΕΙΣΑΓΩΓΗ ΣΤΟ ΜΑΡΚΕΤΙΝΓΚ">
+            <semester>1</semester>
+            <professor>Α. ΒΡΕΧΟΠΟΥΛΟΣ</professor>
+            <comments>-</comments>
+            <time>11-13</time>
+            <room>Α31</room>
+            <day>Τρίτη</day>
+        </lesson>
+        <lesson title="ΕΙΣΑΓΩΓΗ ΣΤΟ ΜΑΡΚΕΤΙΝΓΚ">
+            <semester>1</semester>
+            <professor>Α. ΒΡΕΧΟΠΟΥΛΟΣ</professor>
+            <comments>-</comments>
+            <time>11-13</time>
+            <room>Δο</room>
+            <day>Πέμπτη</day>
+        </lesson>
+        <lesson title="ΛΟΓΙΣΤΙΚΗ Ι">
+            <semester>1</semester>
+            <professor>Α.ΠΑΠΑΔΑΚΗ</professor>
+            <comments>ΦΡΟΝΤΙΣΤΗΡΙΟ</comments>
+            <time>13-15</time>
+            <room>Α31</room>
+            <day>Τρίτη</day>
+        </lesson>
+        <lesson title="ΛΟΓΙΣΤΙΚΗ Ι">
+            <semester>1</semester>
+            <professor>Α.ΠΑΠΑΔΑΚΗ</professor>
+            <comments>-</comments>
+            <time>9-11</time>
+            <room>Δο</room>
+            <day>Πέμπτη</day>
+        </lesson>
+        <lesson title="ΛΟΓΙΣΤΙΚΗ Ι">
+            <semester>1</semester>
+            <professor>Α.ΠΑΠΑΔΑΚΗ</professor>
+            <comments>-</comments>
+            <time>9-11</time>
+            <room>Α21</room>
+            <day>Παρασκευή</day>
+        </lesson>
+        <lesson title="ΜΑΘΗΜΑΤΙΚΑ  Ι">
+            <semester>1</semester>
+            <professor>ΚΡΗΤΙΚΟΣ</professor>
+            <comments>ΦΡΟΝΤΙΣΤΗΡΙΟ (Α-Λ)</comments>
+            <time>9-11</time>
+            <room>Η/Υ1 Η/Υ 2</room>
+            <day>Δευτέρα</day>
+        </lesson>
+        <lesson title="ΜΑΘΗΜΑΤΙΚΑ  Ι">
+            <semester>1</semester>
+            <professor>ΚΡΗΤΙΚΟΣ</professor>
+            <comments>ΦΡΟΝΤΙΣΤΗΡΙΟ (Μ-Ω)</comments>
+            <time>11-13</time>
+            <room>Η/Υ 3</room>
+            <day>Δευτέρα</day>
+        </lesson>
+        <lesson title="ΜΑΘΗΜΑΤΙΚΑ  Ι">
+            <semester>1</semester>
+            <professor>ΚΡΗΤΙΚΟΣ</professor>
+            <comments>-</comments>
+            <time>9-11</time>
+            <room>Α31</room>
+            <day>Τρίτη</day>
+        </lesson>
+        <lesson title="ΜΑΘΗΜΑΤΙΚΑ  Ι">
+            <semester>1</semester>
+            <professor>ΚΡΗΤΙΚΟΣ</professor>
+            <comments>ΦΡΟΝΤΙΣΤΗΡΙΟ</comments>
+            <time>13-15</time>
+            <room>Δο</room>
+            <day>Τετάρτη</day>
+        </lesson>
+        <lesson title="ΜΑΘΗΜΑΤΙΚΑ  Ι">
+            <semester>1</semester>
+            <professor>ΚΡΗΤΙΚΟΣ</professor>
+            <comments>-</comments>
+            <time>13-15</time>
+            <room>Δο</room>
+            <day>Πέμπτη</day>
+        </lesson>
+        <lesson title=" ΒΑΣΕΙΣ ΔΕΔΟΜΕΝΩΝ">
+            <semester>3</semester>
+            <professor>Δ. ΧΑΤΖΗΑΝΤΩΝΙΟΥ</professor>
+            <comments>-</comments>
+            <time>11-13</time>
+            <room>Δο</room>
+            <day>Τετάρτη</day>
+        </lesson>
+        <lesson title=" ΒΑΣΕΙΣ ΔΕΔΟΜΕΝΩΝ">
+            <semester>3</semester>
+            <professor>Δ. ΧΑΤΖΗΑΝΤΩΝΙΟΥ</professor>
+            <comments>ΦΡΟΝΤΙΣΤΗΡΙΟ</comments>
+            <time>13-15</time>
+            <room>A44</room>
+            <day>Τετάρτη</day>
+        </lesson>
+        <lesson title=" ΒΑΣΕΙΣ ΔΕΔΟΜΕΝΩΝ">
+            <semester>3</semester>
+            <professor>Δ. ΧΑΤΖΗΑΝΤΩΝΙΟΥ</professor>
+            <comments>-</comments>
+            <time>9-11</time>
+            <room>Δ23</room>
+            <day>Παρασκευή</day>
+        </lesson>
+        <lesson title="ΛΗΨΗ ΕΠΙΧΕΙΡΗΜΑΤΙΚΩΝ ΑΠΟΦΑΣΕΩΝ">
+            <semester>3</semester>
+            <professor>Ε. ΚΡΗΤΙΚΟΣ</professor>
+            <comments>-</comments>
+            <time>11-13</time>
+            <room>Δ23</room>
+            <day>Τρίτη</day>
+        </lesson>
+        <lesson title="ΛΗΨΗ ΕΠΙΧΕΙΡΗΜΑΤΙΚΩΝ ΑΠΟΦΑΣΕΩΝ">
+            <semester>3</semester>
+            <professor>Ε. ΚΡΗΤΙΚΟΣ</professor>
+            <comments>-</comments>
+            <time>9-11</time>
+            <room>Δο</room>
+            <day>Τετάρτη</day>
+        </lesson>
+        <lesson title="ΛΗΨΗ ΕΠΙΧΕΙΡΗΜΑΤΙΚΩΝ ΑΠΟΦΑΣΕΩΝ">
+            <semester>3</semester>
+            <professor>Ε. ΚΡΗΤΙΚΟΣ</professor>
+            <comments>ΦΡΟΝΤΙΣΤΗΡΙΟ (Α-Λ)</comments>
+            <time>9-11</time>
+            <room>Η/Υ 3</room>
+            <day>Πέμπτη</day>
+        </lesson>
+        <lesson title="ΛΗΨΗ ΕΠΙΧΕΙΡΗΜΑΤΙΚΩΝ ΑΠΟΦΑΣΕΩΝ">
+            <semester>3</semester>
+            <professor>Ε. ΚΡΗΤΙΚΟΣ</professor>
+            <comments>ΦΡΟΝΤΙΣΤΗΡΙΟ (Μ-Ω)</comments>
+            <time>11-13</time>
+            <room>Η/Υ 3</room>
+            <day>Πέμπτη</day>
+        </lesson>
+        <lesson title="ΟΡΓΑΝΩΣΙΑΚΗ ΣΥΜΠΕΡΙΦΟΡΑ ΚΑΙ ΗΓΕΣΙΑ">
+            <semester>3</semester>
+            <professor>Δ. ΜΠΟΥΡΑΝΤΑΣ</professor>
+            <comments>-</comments>
+            <time>11-13</time>
+            <room>Δο</room>
+            <day>Δευτέρα</day>
+        </lesson>
+        <lesson title="ΟΡΓΑΝΩΣΙΑΚΗ ΣΥΜΠΕΡΙΦΟΡΑ ΚΑΙ ΗΓΕΣΙΑ">
+            <semester>3</semester>
+            <professor>Δ. ΜΠΟΥΡΑΝΤΑΣ</professor>
+            <comments>-</comments>
+            <time>13-15</time>
+            <room>Δ23</room>
+            <day>Τρίτη</day>
+        </lesson>
+        <lesson title="ΠΟΣΟΤΙΚΕΣ ΜΕΘΟΔΟΙ ΣΤΗΝ ΟΙΚΟΝΟΜΙΑ ΚΑΙ ΤΗΝ ΔΙΟΙΚΗΣΗ ΙΙ">
+            <semester>3</semester>
+            <professor>Ν. ΔΕΜΙΡΗΣ</professor>
+            <comments>-</comments>
+            <time>9-11</time>
+            <room>Α23</room>
+            <day>Τρίτη</day>
+        </lesson>
+        <lesson title="ΠΟΣΟΤΙΚΕΣ ΜΕΘΟΔΟΙ ΣΤΗΝ ΟΙΚΟΝΟΜΙΑ ΚΑΙ ΤΗΝ ΔΙΟΙΚΗΣΗ ΙΙ">
+            <semester>3</semester>
+            <professor>Ν. ΔΕΜΙΡΗΣ</professor>
+            <comments>-</comments>
+            <time>15-17</time>
+            <room>Δ23</room>
+            <day>Πέμπτη</day>
+        </lesson>
+        <lesson title="ΠΟΣΟΤΙΚΕΣ ΜΕΘΟΔΟΙ ΣΤΗΝ ΟΙΚΟΝΟΜΙΑ ΚΑΙ ΤΗΝ ΔΙΟΙΚΗΣΗ ΙΙ">
+            <semester>3</semester>
+            <professor>Ν. ΔΕΜΙΡΗΣ</professor>
+            <comments>ΦΡΟΝΤΙΣΤΗΡΙΟ (Α-Λ)</comments>
+            <time>11-13</time>
+            <room>Η/Υ 3</room>
+            <day>Παρασκευή</day>
+        </lesson>
+        <lesson title="ΠΟΣΟΤΙΚΕΣ ΜΕΘΟΔΟΙ ΣΤΗΝ ΟΙΚΟΝΟΜΙΑ ΚΑΙ ΤΗΝ ΔΙΟΙΚΗΣΗ ΙΙ">
+            <semester>3</semester>
+            <professor>Ν. ΔΕΜΙΡΗΣ</professor>
+            <comments>ΦΡΟΝΤΙΣΤΗΡΙΟ (Μ-Ω)</comments>
+            <time>13-15</time>
+            <room>Η/Υ 3</room>
+            <day>Παρασκευή</day>
+        </lesson>
+        <lesson title="ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ ΙΙ">
+            <semester>3</semester>
+            <professor>Δ. ΣΠΙΝΕΛΛΗΣ</professor>
+            <comments>-</comments>
+            <time>15-17</time>
+            <room>Δ23</room>
+            <day>Δευτέρα</day>
+        </lesson>
+        <lesson title="ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ ΙΙ">
+            <semester>3</semester>
+            <professor>Δ. ΣΠΙΝΕΛΛΗΣ</professor>
+            <comments>ΦΡΟΝΤΙΣΤΗΡΙΟ</comments>
+            <time>15-17</time>
+            <room>Α23</room>
+            <day>Τρίτη</day>
+        </lesson>
+        <lesson title="ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ ΙΙ">
+            <semester>3</semester>
+            <professor>Δ. ΣΠΙΝΕΛΛΗΣ</professor>
+            <comments>-</comments>
+            <time>15-17</time>
+            <room>Α48</room>
+            <day>Τετάρτη</day>
+        </lesson>
+        <lesson title="ΑΝΑΠΤΥΞΗ ΚΑΙ ΑΡΧΙΤΕΚΤΟΝΙΚΕΣ ΠΛΗΡΟΦΟΡΙΑΚΩΝ ΣΥΣΤΗΜΑΤΩΝ">
+            <semester>5</semester>
+            <professor>Κ. ΠΡΑΜΑΤΑΡΗ</professor>
+            <comments>-</comments>
+            <time>11-13</time>
+            <room>Α21</room>
+            <day>Τετάρτη</day>
+        </lesson>
+        <lesson title="ΑΝΑΠΤΥΞΗ ΚΑΙ ΑΡΧΙΤΕΚΤΟΝΙΚΕΣ ΠΛΗΡΟΦΟΡΙΑΚΩΝ ΣΥΣΤΗΜΑΤΩΝ">
+            <semester>5</semester>
+            <professor>Κ. ΠΡΑΜΑΤΑΡΗ</professor>
+            <comments>-</comments>
+            <time>11-13</time>
+            <room>Δ23</room>
+            <day>Παρασκευή</day>
+        </lesson>
+        <lesson title="ΑΝΑΠΤΥΞΗ ΚΑΙ ΑΡΧΙΤΕΚΤΟΝΙΚΕΣ ΠΛΗΡΟΦΟΡΙΑΚΩΝ ΣΥΣΤΗΜΑΤΩΝ">
+            <semester>5</semester>
+            <professor>Κ. ΠΡΑΜΑΤΑΡΗ</professor>
+            <comments>ΦΡΟΝΤΙΣΤΗΡΙΟ</comments>
+            <time>13-15</time>
+            <room>Δ23</room>
+            <day>Παρασκευή</day>
+        </lesson>
+        <lesson title="ΑΝΑΠΤΥΞΗ ΚΑΙ ΑΡΧΙΤΕΚΤΟΝΙΚΕΣ ΠΛΗΡΟΦΟΡΙΑΚΩΝ ΣΥΣΤΗΜΑΤΩΝ">
+            <semester>5</semester>
+            <professor>Κ. ΠΡΑΜΑΤΑΡΗ</professor>
+            <comments>ΦΡΟΝΤΙΣΤΗΡΙΟ</comments>
+            <time>9-11</time>
+            <room>Η/Υ1 Η/Υ 2</room>
+            <day>Παρασκευή</day>
+        </lesson>
+        <lesson title="ΔΙΟΙΚΗΣΗ ΕΠΙΧΕΙΡΗΣΕΩΝ ΚΑΙ ΤΕΧΝΟΛΟΓΙΑ">
+            <semester>5</semester>
+            <professor>Γ. ΔΟΥΚΙΔΗΣ</professor>
+            <comments>-</comments>
+            <time>11-13</time>
+            <room>Δ23</room>
+            <day>Δευτέρα</day>
+        </lesson>
+        <lesson title="ΔΙΟΙΚΗΣΗ ΕΠΙΧΕΙΡΗΣΕΩΝ ΚΑΙ ΤΕΧΝΟΛΟΓΙΑ">
+            <semester>5</semester>
+            <professor>Γ. ΔΟΥΚΙΔΗΣ</professor>
+            <comments>-</comments>
+            <time>9-11</time>
+            <room>Α21</room>
+            <day>Τρίτη</day>
+        </lesson>
+        <lesson title="ΔΙΟΙΚΗΣΗ ΕΠΙΧΕΙΡΗΣΕΩΝ ΚΑΙ ΤΕΧΝΟΛΟΓΙΑ">
+            <semester>5</semester>
+            <professor>Γ. ΔΟΥΚΙΔΗΣ</professor>
+            <comments>ΦΡΟΝΤΙΣΤΗΡΙΟ</comments>
+            <time>15-17</time>
+            <room>Υ1</room>
+            <day>Τετάρτη</day>
+        </lesson>
+        <lesson title="ΔΙΟΙΚΗΣΗ ΕΠΙΧΕΙΡΗΣΕΩΝ ΚΑΙ ΤΕΧΝΟΛΟΓΙΑ">
+            <semester>5</semester>
+            <professor>Γ. ΔΟΥΚΙΔΗΣ</professor>
+            <comments>-</comments>
+            <time>17-19</time>
+            <room>Η/Υ 3</room>
+            <day>Παρασκευή</day>
+        </lesson>
+        <lesson title="ΔΙΟΙΚΗΣΗ ΕΡΓΩΝ ΚΑΙ ΠΡΟΓΡΑΜΜΑΤΩΝ">
+            <semester>5</semester>
+            <professor>Κ. ΑΝΔΡΟΥΤΣΟΠΟΥΛΟΣ</professor>
+            <comments>-</comments>
+            <time>15-17</time>
+            <room>Α48</room>
+            <day>Δευτέρα</day>
+        </lesson>
+        <lesson title="ΔΙΟΙΚΗΣΗ ΕΡΓΩΝ ΚΑΙ ΠΡΟΓΡΑΜΜΑΤΩΝ">
+            <semester>5</semester>
+            <professor>Κ. ΑΝΔΡΟΥΤΣΟΠΟΥΛΟΣ</professor>
+            <comments>-</comments>
+            <time>11-13</time>
+            <room>Υ1</room>
+            <day>Πέμπτη</day>
+        </lesson>
+        <lesson title="ΜΕΘΟΔΟΙ ΒΕΛΤΙΣΟΠΟΙΗΣΗΣ ΣΤΗΝ ΔΙΟΙΚΗΤΙΚΗ ΕΠΙΣΤΗΜΗΣ ">
+            <semester>5</semester>
+            <professor>Χ. ΤΑΡΑΝΤΙΛΗΣ</professor>
+            <comments>-</comments>
+            <time>13-15</time>
+            <room>Δ23</room>
+            <day>Δευτέρα</day>
+        </lesson>
+        <lesson title="ΜΕΘΟΔΟΙ ΒΕΛΤΙΣΟΠΟΙΗΣΗΣ ΣΤΗΝ ΔΙΟΙΚΗΤΙΚΗ ΕΠΙΣΤΗΜΗΣ ">
+            <semester>5</semester>
+            <professor>Χ. ΤΑΡΑΝΤΙΛΗΣ</professor>
+            <comments>-</comments>
+            <time>13-15</time>
+            <room>Α25</room>
+            <day>Πέμπτη</day>
+        </lesson>
+        <lesson title="ΟΡΓΑΝΩΣΙΑΚΗ ΨΥΧΟΛΟΓΙΑ">
+            <semester>5</semester>
+            <professor>Γ. ΝΙΚΟΛΑΟΥ</professor>
+            <comments>-</comments>
+            <time>11-13</time>
+            <room>Α21</room>
+            <day>Τρίτη</day>
+        </lesson>
+        <lesson title="ΟΡΓΑΝΩΣΙΑΚΗ ΨΥΧΟΛΟΓΙΑ">
+            <semester>5</semester>
+            <professor>Γ. ΝΙΚΟΛΑΟΥ</professor>
+            <comments>-</comments>
+            <time>13-15</time>
+            <room>Α21</room>
+            <day>Τρίτη</day>
+        </lesson>
+        <lesson title=" ΣΥΝΔΥΑΣΤΙΚΗ ΒΕΛΤΙΣΤΟΠΟΙΗΣΗ">
+            <semester>7</semester>
+            <professor>Γ. Μούρτος</professor>
+            <comments>ΦΡΟΝΤΙΣΤΗΡΙΟ</comments>
+            <time>9-11</time>
+            <room>Υ1</room>
+            <day>Δευτέρα</day>
+        </lesson>
+        <lesson title=" ΣΥΝΔΥΑΣΤΙΚΗ ΒΕΛΤΙΣΤΟΠΟΙΗΣΗ">
+            <semester>7</semester>
+            <professor>Γ. Μούρτος</professor>
+            <comments>-</comments>
+            <time>9-11</time>
+            <room>Τ103</room>
+            <day>Τετάρτη</day>
+        </lesson>
+        <lesson title=" ΣΥΝΔΥΑΣΤΙΚΗ ΒΕΛΤΙΣΤΟΠΟΙΗΣΗ">
+            <semester>7</semester>
+            <professor>Γ. Μούρτος</professor>
+            <comments>-</comments>
+            <time>11-13</time>
+            <room>Τ103</room>
+            <day>Τετάρτη</day>
+        </lesson>
+        <lesson title="ΑΝΑΛΥΣΗ ΕΠΕΝΔΥΣΕΩΝ">
+            <semester>7</semester>
+            <professor>Α. Ρεφενές</professor>
+            <comments>-</comments>
+            <time>17-19</time>
+            <room>Α48</room>
+            <day>Πέμπτη</day>
+        </lesson>
+        <lesson title="ΑΝΑΛΥΣΗ ΕΠΕΝΔΥΣΕΩΝ">
+            <semester>7</semester>
+            <professor>Α. Ρεφενές</professor>
+            <comments>-</comments>
+            <time>19-21</time>
+            <room>Α48</room>
+            <day>Πέμπτη</day>
+        </lesson>
+        <lesson title="ΑΝΑΛΥΣΗ ΚΑΙ ΣΧΕΔΙΑΣΜΟΣ ΣΥΣΤΗΜΑΤΩΝ ΔΙΑΝΟΜΗΣ ΚΑΙ ΜΕΤΑΦΟΡΩΝ">
+            <semester>7</semester>
+            <professor>ΑΝΔΡΟΥΤΣΟΠΟΥΛΟΣ</professor>
+            <comments>-</comments>
+            <time>13-15</time>
+            <room>Τ103</room>
+            <day>Τετάρτη</day>
+        </lesson>
+        <lesson title="ΑΝΑΛΥΣΗ ΚΑΙ ΣΧΕΔΙΑΣΜΟΣ ΣΥΣΤΗΜΑΤΩΝ ΔΙΑΝΟΜΗΣ ΚΑΙ ΜΕΤΑΦΟΡΩΝ">
+            <semester>7</semester>
+            <professor>ΑΝΔΡΟΥΤΣΟΠΟΥΛΟΣ</professor>
+            <comments>-</comments>
+            <time>15-17</time>
+            <room>Τ103</room>
+            <day>Τετάρτη</day>
+        </lesson>
+        <lesson title="ΑΝΑΛΥΣΗ ΚΟΙΝΩΝΙΚΩΝ ΔΙΚΤΥΩΝ - SOCIAL NETWORK ANALYTICS">
+            <semester>7</semester>
+            <professor>Π.Δ. 407</professor>
+            <comments>-</comments>
+            <time>13-15</time>
+            <room>Δ102</room>
+            <day>Τρίτη</day>
+        </lesson>
+        <lesson title="ΑΝΑΛΥΣΗ ΚΟΙΝΩΝΙΚΩΝ ΔΙΚΤΥΩΝ - SOCIAL NETWORK ANALYTICS">
+            <semester>7</semester>
+            <professor>Π.Δ. 407</professor>
+            <comments>-</comments>
+            <time>13-15</time>
+            <room>A44</room>
+            <day>Πέμπτη</day>
+        </lesson>
+        <lesson title="ΑΝΑΠΤΥΞΗ ΔΙΑΔΙΚΤΥΑΚΩΝ ΚΑΙ ΝΕΦΟΫΠΟΛΟΓΙΣΤΙΚΩΝ ΕΦΑΡΜΟΓΩΝ">
+            <semester>7</semester>
+            <professor>Π. ΛΟΥΡΙΔΑΣ</professor>
+            <comments>-</comments>
+            <time>11-13</time>
+            <room>Δ102</room>
+            <day>Δευτέρα</day>
+        </lesson>
+        <lesson title="ΑΝΑΠΤΥΞΗ ΔΙΑΔΙΚΤΥΑΚΩΝ ΚΑΙ ΝΕΦΟΫΠΟΛΟΓΙΣΤΙΚΩΝ ΕΦΑΡΜΟΓΩΝ">
+            <semester>7</semester>
+            <professor>Π. ΛΟΥΡΙΔΑΣ</professor>
+            <comments>-</comments>
+            <time>11-13</time>
+            <room>Α22</room>
+            <day>Τετάρτη</day>
+        </lesson>
+        <lesson title="ΑΝΑΠΤΥΞΗ ΔΙΑΔΙΚΤΥΑΚΩΝ ΚΑΙ ΝΕΦΟΫΠΟΛΟΓΙΣΤΙΚΩΝ ΕΦΑΡΜΟΓΩΝ">
+            <semester>7</semester>
+            <professor>Π. ΛΟΥΡΙΔΑΣ</professor>
+            <comments>ΦΡΟΝΤΙΣΤΗΡΙΟ</comments>
+            <time>15-17</time>
+            <room>Α23</room>
+            <day>Παρασκευή</day>
+        </lesson>
+        <lesson title="ΑΝΑΠΤΥΞΗ ΠΡΟΣΩΠΙΚΩΝ ΙΚΑΝΟΤΗΤΩΝ">
+            <semester>7</semester>
+            <professor>Γ. ΝΙΚΟΛΑΟΥ</professor>
+            <comments>-</comments>
+            <time>15-17</time>
+            <room>Δ23</room>
+            <day>Τετάρτη</day>
+        </lesson>
+        <lesson title="ΑΝΑΠΤΥΞΗ ΠΡΟΣΩΠΙΚΩΝ ΙΚΑΝΟΤΗΤΩΝ">
+            <semester>7</semester>
+            <professor>Γ. ΝΙΚΟΛΑΟΥ</professor>
+            <comments>-</comments>
+            <time>17-19</time>
+            <room>Δ23</room>
+            <day>Τετάρτη</day>
+        </lesson>
+        <lesson title="ΔΙΑΧΕΙΡΙΣΗ ΠΛΗΡΟΦΟΡΙΑΚΩΝ ΠΟΡΩΝ">
+            <semester>7</semester>
+            <professor>Ν. ΠΟΥΛΟΥΔΗ</professor>
+            <comments>-</comments>
+            <time>13-15</time>
+            <room>Τ103</room>
+            <day>Πέμπτη</day>
+        </lesson>
+        <lesson title="ΔΙΑΧΕΙΡΙΣΗ ΠΛΗΡΟΦΟΡΙΑΚΩΝ ΠΟΡΩΝ">
+            <semester>7</semester>
+            <professor>Ν. ΠΟΥΛΟΥΔΗ</professor>
+            <comments>-</comments>
+            <time>15-17</time>
+            <room>Τ103</room>
+            <day>Πέμπτη</day>
+        </lesson>
+        <lesson title="ΕΙΔΙΚΕΣ ΠΡΟΣΕΓΓΙΣΕΙΣ ΤΗΣ ΗΓΕΣΙΑΣ">
+            <semester>7</semester>
+            <professor>Δ. ΜΠΟΥΡΑΝΤΑΣ</professor>
+            <comments>-</comments>
+            <time>17-19</time>
+            <room>Υ1</room>
+            <day>Παρασκευή</day>
+        </lesson>
+        <lesson title="ΕΙΔΙΚΕΣ ΠΡΟΣΕΓΓΙΣΕΙΣ ΤΗΣ ΗΓΕΣΙΑΣ">
+            <semester>7</semester>
+            <professor>Δ. ΜΠΟΥΡΑΝΤΑΣ</professor>
+            <comments>-</comments>
+            <time>19-21</time>
+            <room>Υ1</room>
+            <day>Παρασκευή</day>
+        </lesson>
+        <lesson title="ΕΠΙΧΕΙΡΗΜΑΤΙΚΗ ΑΝΑΛΥΤΙΚΗ &amp; ΤΕΧΝΟΛΟΓΙΕΣ ΕΞΑΤΟΜΙΚΕΥΣΗΣ">
+            <semester>7</semester>
+            <professor>Γ. ΛΕΚΑΚΟΣ Κ. ΠΡΑΜΑΤΑΡΗ</professor>
+            <comments>-</comments>
+            <time>15-17</time>
+            <room>Δ102</room>
+            <day>Τρίτη</day>
+        </lesson>
+        <lesson title="ΕΠΙΧΕΙΡΗΜΑΤΙΚΗ ΑΝΑΛΥΤΙΚΗ &amp; ΤΕΧΝΟΛΟΓΙΕΣ ΕΞΑΤΟΜΙΚΕΥΣΗΣ">
+            <semester>7</semester>
+            <professor>Γ. ΛΕΚΑΚΟΣ Κ. ΠΡΑΜΑΤΑΡΗ</professor>
+            <comments>-</comments>
+            <time>17-19</time>
+            <room>Δ102</room>
+            <day>Τρίτη</day>
+        </lesson>
+        <lesson title="ΕΠΙΧΕΙΡΗΜΑΤΙΚΗ ΕΥΦΥΪΑ ΚΑΙ ΑΝΑΛΥΣΗ ΜΕΓΑΛΩΝ ΔΕΔΟΜΕΝΩΝ">
+            <semester>7</semester>
+            <professor>Δ. ΧΑΤΖΗΑΝΤΩΝΙΟΥ</professor>
+            <comments>ΦΡΟΝΤΙΣΤΗΡΙΟ</comments>
+            <time>17-19</time>
+            <room>Α48</room>
+            <day>Τετάρτη</day>
+        </lesson>
+        <lesson title="ΕΠΙΧΕΙΡΗΜΑΤΙΚΗ ΕΥΦΥΪΑ ΚΑΙ ΑΝΑΛΥΣΗ ΜΕΓΑΛΩΝ ΔΕΔΟΜΕΝΩΝ">
+            <semester>7</semester>
+            <professor>Δ. ΧΑΤΖΗΑΝΤΩΝΙΟΥ</professor>
+            <comments>-</comments>
+            <time>11-13</time>
+            <room>Τ201</room>
+            <day>Πέμπτη</day>
+        </lesson>
+        <lesson title="ΕΠΙΧΕΙΡΗΜΑΤΙΚΗ ΕΥΦΥΪΑ ΚΑΙ ΑΝΑΛΥΣΗ ΜΕΓΑΛΩΝ ΔΕΔΟΜΕΝΩΝ">
+            <semester>7</semester>
+            <professor>Δ. ΧΑΤΖΗΑΝΤΩΝΙΟΥ</professor>
+            <comments>-</comments>
+            <time>9-11</time>
+            <room>Τ201</room>
+            <day>Πέμπτη</day>
+        </lesson>
+        <lesson title="ΕΠΙΧΕΙΡΗΜΑΤΙΚΟΤΗΤΑ">
+            <semester>7</semester>
+            <professor>Ε. ΒΟΥΔΟΥΡΗ</professor>
+            <comments>-</comments>
+            <time>9-11</time>
+            <room>Α31</room>
+            <day>Παρασκευή</day>
+        </lesson>
+        <lesson title="ΕΠΙΧΕΙΡΗΜΑΤΙΚΟΤΗΤΑ">
+            <semester>7</semester>
+            <professor>Ε. ΒΟΥΔΟΥΡΗ</professor>
+            <comments>-</comments>
+            <time>11-13</time>
+            <room>Α31</room>
+            <day>Παρασκευή</day>
+        </lesson>
+        <lesson title="ΗΛΕΚΤΡΟΝΙΚΗ ΜΑΘΗΣΗ ΚΑΙ ΔΙΑΧΕΙΡΙΣΗ ΓΝΩΣΗΣ ">
+            <semester>7</semester>
+            <professor>ΠΟΥΛΥΜΕΝΑΚΟΥ - ΣΟΝΤΕΡΚΒΙΣΤ</professor>
+            <comments>ΦΡΟΝΤΙΣΤΗΡΙΟ</comments>
+            <time>19-21</time>
+            <room>Υ1</room>
+            <day>Τετάρτη</day>
+        </lesson>
+        <lesson title="ΗΛΕΚΤΡΟΝΙΚΗ ΜΑΘΗΣΗ ΚΑΙ ΔΙΑΧΕΙΡΙΣΗ ΓΝΩΣΗΣ ">
+            <semester>7</semester>
+            <professor>ΠΟΥΛΥΜΕΝΑΚΟΥ - ΣΟΝΤΕΡΚΒΙΣΤ</professor>
+            <comments>-</comments>
+            <time>15-17</time>
+            <room>Α47</room>
+            <day>Πέμπτη</day>
+        </lesson>
+        <lesson title="ΗΛΕΚΤΡΟΝΙΚΗ ΜΑΘΗΣΗ ΚΑΙ ΔΙΑΧΕΙΡΙΣΗ ΓΝΩΣΗΣ ">
+            <semester>7</semester>
+            <professor>ΠΟΥΛΥΜΕΝΑΚΟΥ - ΣΟΝΤΕΡΚΒΙΣΤ</professor>
+            <comments>-</comments>
+            <time>17-19</time>
+            <room>Α47</room>
+            <day>Πέμπτη</day>
+        </lesson>
+        <lesson title="ΘΕΜΑΤΑ ΣΤΡΑΤΗΓΙΚΗΣ ΚΑΙ ΚΑΙΝΟΤΟΜΙΑΣ">
+            <semester>7</semester>
+            <professor>Ι. ΣΠΑΝΟΣ</professor>
+            <comments>-</comments>
+            <time>13-15</time>
+            <room>Α32</room>
+            <day>Δευτέρα</day>
+        </lesson>
+        <lesson title="ΘΕΜΑΤΑ ΣΤΡΑΤΗΓΙΚΗΣ ΚΑΙ ΚΑΙΝΟΤΟΜΙΑΣ">
+            <semester>7</semester>
+            <professor>Ι. ΣΠΑΝΟΣ</professor>
+            <comments>-</comments>
+            <time>13-15</time>
+            <room>Υ1</room>
+            <day>Τετάρτη</day>
+        </lesson>
+        <lesson title="ΣΕΜΙΝΑΡΙΟ ΠΡΑΚΤΙΚΗΣ ΑΣΚΗΣΗΣ">
+            <semester>7</semester>
+            <professor>Γ. ΔΟΥΚΙΔΗΣ</professor>
+            <comments>-</comments>
+            <time>13-15</time>
+            <room>Α48</room>
+            <day>Παρασκευή</day>
+        </lesson>
+        <lesson title="ΣΕΜΙΝΑΡΙΟ ΠΡΑΚΤΙΚΗΣ ΑΣΚΗΣΗΣ">
+            <semester>7</semester>
+            <professor>Γ. ΔΟΥΚΙΔΗΣ</professor>
+            <comments>-</comments>
+            <time>15-17</time>
+            <room>Α48</room>
+            <day>Παρασκευή</day>
+        </lesson>
+        <lesson title="ΣΤΟΧΑΣΤΙΚΗ ΜΟΝΤΕΛΟΠΟΙΗΣΗ ΚΑΙ ΠΡΟΣΟΜΟΙΩΣΗ">
+            <semester>7</semester>
+            <professor>ΜΟΥΡΤΟΣ - ΛΕΚΑΚΟΣ</professor>
+            <comments>ΦΡΟΝΤΙΣΤΗΡΙΟ</comments>
+            <time>11-13</time>
+            <room>Υ1</room>
+            <day>Δευτέρα</day>
+        </lesson>
+        <lesson title="ΣΤΟΧΑΣΤΙΚΗ ΜΟΝΤΕΛΟΠΟΙΗΣΗ ΚΑΙ ΠΡΟΣΟΜΟΙΩΣΗ">
+            <semester>7</semester>
+            <professor>ΜΟΥΡΤΟΣ - ΛΕΚΑΚΟΣ</professor>
+            <comments>-</comments>
+            <time>9-11</time>
+            <room>Τ103</room>
+            <day>Τρίτη</day>
+        </lesson>
+        <lesson title="ΣΤΟΧΑΣΤΙΚΗ ΜΟΝΤΕΛΟΠΟΙΗΣΗ ΚΑΙ ΠΡΟΣΟΜΟΙΩΣΗ">
+            <semester>7</semester>
+            <professor>ΜΟΥΡΤΟΣ - ΛΕΚΑΚΟΣ</professor>
+            <comments>-</comments>
+            <time>11-13</time>
+            <room>Τ103</room>
+            <day>Τρίτη</day>
+        </lesson>
+        <lesson title="ΣΤΡΑΤΗΓΙΚΕΣ ΛΗΨΗΣ ΑΠΟΦΑΣΕΩΝ ΚΑΙ ΕΠΙΛΥΣΗΣ ΠΡΟΒΛΗΜΑΤΩΝ">
+            <semester>7</semester>
+            <professor>Χ. ΤΑΡΑΝΤΙΛΗΣ</professor>
+            <comments>-</comments>
+            <time>15-17</time>
+            <room>Δ102</room>
+            <day>Παρασκευή</day>
+        </lesson>
+        <lesson title="ΣΤΡΑΤΗΓΙΚΕΣ ΛΗΨΗΣ ΑΠΟΦΑΣΕΩΝ ΚΑΙ ΕΠΙΛΥΣΗΣ ΠΡΟΒΛΗΜΑΤΩΝ">
+            <semester>7</semester>
+            <professor>Χ. ΤΑΡΑΝΤΙΛΗΣ</professor>
+            <comments>-</comments>
+            <time>17-19</time>
+            <room>Δ102</room>
+            <day>Παρασκευή</day>
+        </lesson>
+        <lesson title="ΣΥΣΤΗΜΑΤΑ ΔΙΑΧΕΙΡΙΣΗΣ ΕΠΙΧΕΙΡΗΣΙΑΚΩΝ ΠΟΡΩΝ">
+            <semester>7</semester>
+            <professor>Γ. ΙΩΑΝΝΟΥ</professor>
+            <comments>-</comments>
+            <time>9-11</time>
+            <room>Δ23</room>
+            <day>Τρίτη</day>
+        </lesson>
+        <lesson title="ΣΥΣΤΗΜΑΤΑ ΔΙΑΧΕΙΡΙΣΗΣ ΕΠΙΧΕΙΡΗΣΙΑΚΩΝ ΠΟΡΩΝ">
+            <semester>7</semester>
+            <professor>Γ. ΙΩΑΝΝΟΥ</professor>
+            <comments>-</comments>
+            <time>9-11</time>
+            <room>Υ1</room>
+            <day>Πέμπτη</day>
+        </lesson>
+        <lesson title="ΧΡΗΜΑΤΟΟΙΚΟΝΟΜΙΚΗ ΜΗΧΑΝΙΚΗ">
+            <semester>7</semester>
+            <professor>ΡΕΦΕΝΕΣ</professor>
+            <comments>ΦΡΟΝΤΙΣΤΗΡΙΟ</comments>
+            <time>17-19</time>
+            <room>Δ23</room>
+            <day>Δευτέρα</day>
+        </lesson>
+        <lesson title="ΧΡΗΜΑΤΟΟΙΚΟΝΟΜΙΚΗ ΜΗΧΑΝΙΚΗ">
+            <semester>7</semester>
+            <professor>ΡΕΦΕΝΕΣ</professor>
+            <comments>-</comments>
+            <time>17-19</time>
+            <room>Α23</room>
+            <day>Παρασκευή</day>
+        </lesson>
+        <lesson title="ΧΡΗΜΑΤΟΟΙΚΟΝΟΜΙΚΗ ΜΗΧΑΝΙΚΗ">
+            <semester>7</semester>
+            <professor>ΡΕΦΕΝΕΣ</professor>
+            <comments>-</comments>
+            <time>19-21</time>
+            <room>Α23</room>
+            <day>Παρασκευή</day>
+        </lesson>
+        <lesson title="ΨΗΦΙΑΚΟ ΜΑΡΚΕΤΙΝΓΚ">
+            <semester>7</semester>
+            <professor>Α.ΒΡΕΧΟΠΟΥΛΟΣ</professor>
+            <comments>-</comments>
+            <time>9-11</time>
+            <room>Τ201</room>
+            <day>Δευτέρα</day>
+        </lesson>
+        <lesson title="ΨΗΦΙΑΚΟ ΜΑΡΚΕΤΙΝΓΚ">
+            <semester>7</semester>
+            <professor>Α.ΒΡΕΧΟΠΟΥΛΟΣ</professor>
+            <comments>-</comments>
+            <time>11-13</time>
+            <room>Τ201</room>
+            <day>Δευτέρα</day>
+        </lesson>
+        <lesson title="ΨΗΦΙΑΚΟ ΜΑΡΚΕΤΙΝΓΚ">
+            <semester>7</semester>
+            <professor>Α.ΒΡΕΧΟΠΟΥΛΟΣ</professor>
+            <comments>ΦΡΟΝΤΙΣΤΗΡΙΟ</comments>
+            <time>17-19</time>
+            <room>Υ1</room>
+            <day>Τετάρτη</day>
+        </lesson>
+    </department>
+</schedule>
