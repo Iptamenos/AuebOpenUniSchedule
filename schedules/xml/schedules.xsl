@@ -4,7 +4,7 @@
 <xsl:template match="/schedule">
 <html>
 
-<!-- COPY THIS FILE INSIDE THE DIRECTORY "schedules\xml\" -->
+<!-- COPY THIS FILE INSIDE THE DIRECTORY "schedules/xml/" -->
 <body>
 
 	<xsl:for-each select="department">
