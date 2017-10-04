@@ -1,4 +1,3 @@
-
 /**
  * Created by Chris on 29/10/2016.
  */
@@ -95,16 +94,28 @@ public class Lesson {
         return room;
     }
 
+//    @Override
+//    public String toString() {
+//        return "ΕΞΑΜΗΝΟ: " + semester + ", "  +
+//               "ΜΑΘΗΜΑ: " + lesson_title + ", " + 
+//               "ΚΑΘΗΓΗΤΗΣ: " + professor + ", " +
+//               "ΤΜΗΜΑ: " + department + ", " +
+//               "ΣΧΟΛΙΑ: " + comments + ", " +
+//               "ΩΡΑ: " + time + ", " +
+//               "ΑΙΘΟΥΣΑ: " + room + ", " +
+//               "ΗΜΕΡΑ: " + day;
+//    }
+    
     @Override
     public String toString() {
-        return "ΕΞΑΜΗΝΟ: " + semester + ", "  +
-               "ΜΑΘΗΜΑ: " + lesson_title + ", " + 
-               "ΚΑΘΗΓΗΤΗΣ: " + professor + ", " +
-               "ΤΜΗΜΑ: " + department + ", " +
-               "ΣΧΟΛΙΑ: " + comments + ", " +
-               "ΩΡΑ: " + time + ", " +
-               "ΑΙΘΟΥΣΑ: " + room + ", " +
-               "ΗΜΕΡΑ: " + day + ", ";
+        return semester + ", "  +
+               lesson_title + ", " + 
+               professor + ", " +
+               department + ", " +
+               comments + ", " +
+               time + ", " +
+               room + ", " +
+               day;
     }
 
 }

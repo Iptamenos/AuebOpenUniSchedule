@@ -1,4 +1,3 @@
-
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
@@ -25,6 +24,7 @@ import org.json.JSONObject;
 import org.w3c.dom.Attr;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
+import org.w3c.dom.ProcessingInstruction;
 
 import jxl.Workbook;
 import jxl.write.Label;
@@ -116,7 +116,10 @@ public class Main {
 		userInput = -1;
 		while (userInput < 0 || userInput > 8) {
 			System.out.print("Choose semester (1-8 or 0 for all): ");
-						
+			
+			// TODO
+//			System.out.print("Choose semester (1-8 or 0 for all or a,b,c for multiple semesters): ");
+			
 			userInput = scanner.nextInt();
 			System.out.println();
 		}
@@ -146,7 +149,8 @@ public class Main {
 		
 		List<Lesson> selected_lessons = new ArrayList<Lesson>();
 		
-		// get the lessons of the department
+		// get and print the lessons of the department
+		System.out.println("ΕΞΑΜΗΝΟ, ΜΑΘΗΜΑ, ΚΑΘΗΓΗΤΗΣ, ΤΜΗΜΑ, ΣΧΟΛΙΑ, ΩΡΑ, ΑΙΘΟΥΣΑ, ΗΜΕΡΑ");
 		for (Lesson lesson: lessons) {
             if (schedule_department.equals(all_departments) ||
             		lesson.getDepartment().equals(schedule_department)) {
@@ -162,20 +166,27 @@ public class Main {
 		// replace slash "/" with "\/"
 		date_string = date_string.replace("//", "////");
 		
+		String schedule_name = "";
+		if (schedule_semester != 0) {
+			schedule_name = "Πρόγραμμα " + date_string + " " + schedule_department + " ΕΞΑΜΗΝΟ " + schedule_semester;
+		} else {
+			schedule_name = "Πρόγραμμα " + date_string + " " + schedule_department;
+		}
+		
 		// write list of sorted lessons to file
-		String outputFile = "schedules/txt/Πρόγραμμα " + date_string + " " + schedule_department + ".txt";
-		createPathToFile(outputFile);
-		writeLessonListToTxtFile(selected_lessons, outputFile);
+		String txtFile = "schedules/txt/" + schedule_name + ".txt";
+		createPathToFile(txtFile);
+		writeLessonListToTxtFile(selected_lessons, txtFile);
 		System.out.println("Writing to \".txt\" file done!");
 		
 		// write list of sorted lessons to excel file
-		String excelFile = "schedules/excel/Πρόγραμμα " + date_string + " " + schedule_department + ".xls";
+		String excelFile = "schedules/excel/" + schedule_name + ".xls";
 		createPathToFile(excelFile);
 		writeLessonListToExcelFile(selected_lessons, excelFile);
 		System.out.println("Writing to excel file done!");
 		
 		// write list of sorted lessons to xml file
-		String xmlFile = "schedules/xml/Πρόγραμμα " + date_string + " " + schedule_department + ".xml";
+		String xmlFile = "schedules/xml/" + schedule_name + ".xml";
 		createPathToFile(xmlFile);
 		writeLessonListToXmlFile(selected_lessons, xmlFile);
 		System.out.println("Writing to \".xml\" file done!");
@@ -225,6 +236,7 @@ public class Main {
 		BufferedWriter bw = null;
 		try {
 			bw = new BufferedWriter(new FileWriter(txtFile));
+			bw.write("ΕΞΑΜΗΝΟ, ΜΑΘΗΜΑ, ΚΑΘΗΓΗΤΗΣ, ΤΜΗΜΑ, ΣΧΟΛΙΑ, ΩΡΑ, ΑΙΘΟΥΣΑ, ΗΜΕΡΑ" + "\n");
 			for (Lesson lesson: lessons) {
 	            bw.write(lesson.toString() + "\n");
 			}
@@ -355,12 +367,16 @@ public class Main {
 	}
 	
 	public static void writeLessonListToXmlFile(List<Lesson> lessons, String xmlFile) {
-		        	
+		
     	try {
             DocumentBuilderFactory dbFactory =
             DocumentBuilderFactory.newInstance();
             DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
             Document doc = dBuilder.newDocument();
+            doc.setXmlStandalone(true);
+            ProcessingInstruction pi = doc.createProcessingInstruction("xml-stylesheet", "type=\"text/xsl\" href=\"schedules.xsl\"");
+            
+            doc.appendChild(pi);
             
             // root element
             Element rootElement = doc.createElement("schedule");
@@ -441,6 +457,7 @@ public class Main {
 			
 	  		TransformerFactory transformerFactory = TransformerFactory.newInstance();
 	  		Transformer transformer = transformerFactory.newTransformer(); 
+	  		transformer.setOutputProperty(OutputKeys.ENCODING, "UTF-8");
 	  		transformer.setOutputProperty(OutputKeys.INDENT, "yes");
 	  		transformer.setOutputProperty(OutputKeys.METHOD, "xml");
 	  		transformer.setOutputProperty("{http://xml.apache.org/xslt}indent-amount", "4");
