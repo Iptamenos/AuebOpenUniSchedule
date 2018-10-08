@@ -1,4 +1,3 @@
-
 import java.io.IOException;
 import java.io.InputStream;
 import java.net.HttpURLConnection;
@@ -21,28 +20,38 @@ public class AUEBDownloader implements ScheduleDownloader {
         try {
             URL urlObj = new URL("http://schedule.aueb.gr/mobile/index.php");
             HttpURLConnection urlConnection = (HttpURLConnection) urlObj.openConnection();
+            
             int statusCode = urlConnection.getResponseCode();
-            //If downloaded successfully
+            System.out.println("statusCode: " + statusCode);
+
+            // If downloaded successfully
             if (statusCode == 200) {
                 InputStream content = urlConnection.getInputStream();
                 
                 // convert InputStream to String
                 String myString = IOUtils.toString(content, StandardCharsets.UTF_8);
+                // System.out.println(myString);
+
+                if (myString.equals("Could not connect to database")) {
+                	System.err.println(myString + "!");
+                	System.exit(0);
+                }
                 
                 // ALTERNATIVE
 //                Scanner s = new Scanner(content).useDelimiter("\\A");
 //                String myString = s.hasNext() ? s.next() : "";
                 
                 jsonArray = new JSONArray(myString);
-                //System.out.println(myString);
                 
             } else {
-               //Do something else in case of error
+            	// Do something else in case of error
+            	System.err.println("HTTP error!");
+            	System.exit(0);
             }
         } catch (IOException e) {
-           e.printStackTrace();
+        	e.printStackTrace();
         } catch (JSONException e) {
-            e.printStackTrace();
+        	e.printStackTrace();
         }
         return jsonArray;
 	}
