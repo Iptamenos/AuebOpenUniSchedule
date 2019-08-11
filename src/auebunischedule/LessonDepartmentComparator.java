@@ -1,4 +1,3 @@
-
 import java.util.Comparator;
 
 public class LessonDepartmentComparator implements Comparator<Lesson> {
