@@ -1,9 +1,9 @@
-#OpenUniSchedule 
+# OpenUniSchedule 
 
 Initially forked from the following url: 
 https://github.com/foss-aueb/OpenUniSchedule.git
 
-##License
+## License
 
     OpenUniSchedule is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
