@@ -1,3 +1,5 @@
+package auebunischedule;
+
 /**
  * Created by Chris on 29/10/2016.
  */

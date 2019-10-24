@@ -1,3 +1,5 @@
+package auebunischedule;
+
 import org.json.JSONArray;
 
 public interface ScheduleDownloader {
