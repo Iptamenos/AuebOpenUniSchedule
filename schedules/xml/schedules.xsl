@@ -13,7 +13,7 @@
 			ΤΜΗΜΑ: <xsl:value-of select="@name"/>
 		</p>
 
-		<table border="1">
+		<table border="1" style="border-collapse: collapse;">
 			<tr>
 				<th>MΑΘΗΜΑ</th>
 				<th>ΕΞΑΜΗΝΟ</th>
