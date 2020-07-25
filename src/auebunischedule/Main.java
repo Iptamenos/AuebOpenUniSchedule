@@ -41,7 +41,7 @@ import jxl.write.WriteException;
 public class Main {
 	
 	public static String all_departments = "ΟΛΑ ΤΑ ΤΜΗΜΑΤΑ";
-
+	
 	public static String department1 = "Πληροφορικής";
 	public static String department2 = "Στατιστικής";
 	public static String department3 = "Διοικητικής Επιστήμης και Τεχνολογίας";
@@ -74,7 +74,7 @@ public class Main {
 			System.out.println("8. " + department8);
 			System.out.println("9. " + department_shared);
 			System.out.print("Choose your department (0-9): ");
-
+			
 			userInput = scanner.nextInt();
 			System.out.println();
 		}
@@ -429,9 +429,9 @@ public class Main {
                 semesterElement.appendChild(doc.createTextNode(Integer.toString(semester)));
                 lessonElement.appendChild(semesterElement);
                 
-//	                Element lessonTitleElement = doc.createElement("lesson_title");
-//	                lessonTitleElement.appendChild(doc.createTextNode(lesson_title));
-//	                lessonElement.appendChild(lessonTitleElement);
+//	            Element lessonTitleElement = doc.createElement("lesson_title");
+//	            lessonTitleElement.appendChild(doc.createTextNode(lesson_title));
+//	            lessonElement.appendChild(lessonTitleElement);
                 
                 Element professorElement = doc.createElement("professor");
                 professorElement.appendChild(doc.createTextNode(professor));
