@@ -16,3 +16,4 @@ bin/
 .settings/
 .classpath
 .project
+/target/
